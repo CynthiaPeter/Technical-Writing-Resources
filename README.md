@@ -5,10 +5,9 @@ Hi there,
 I hope this meets you well. 
 This is a compilation of important links that I have come across in my journey as a writer. I hope this helps you too.
 
-## What is Technical Writing?
-
-
-##Getting Started
+## Getting Started
+- [A beginners guide to get started with technical writing By Cynthia Peter](https://cynthiapeter.com/a-beginners-guide-to-get-started-with-technical-writing)
+- (https://developers.deepgram.com/blog/2022/03/technical-writing-a-beginners-guide/)[Technical Writing - A beginners Guide] By Bekah Hawrot Weigel.
 
 ## Types of Documentation You may need to do as a Technical writer:
 

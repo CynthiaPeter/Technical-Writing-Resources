@@ -5,14 +5,14 @@ Hi there,
 I hope this meets you well. 
 This is a compilation of important links that I have come across in my journey as a writer. I hope this helps you too.
 
-###API Documentation
+### API Documentation
 
-###Style Guides
+### Style Guides
 
-###Tools
+### Tools
 
-###Community and Newsletters
+### Community and Newsletters
 
-###Find Jobs
+### Find Jobs
 
-###Build your Portfolio
+### Build your Portfolio

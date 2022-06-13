@@ -21,14 +21,32 @@ This is a compilation of important links that I have come across in my journey a
   * [Postman Learning center](https://learning.postman.com/docs/publishing-your-api/documenting-your-api/) for API docs.
   * [Documenting APIs](https://idratherbewriting.com/learnapidoc/) A guide for technical writers and engineers.
   * [API Docs](https://apidocsfordevs.com/) for Devs By Shalvah.
+  * [Getting Started in API Documentation](http://writeonce.org/starting_as_a_programmer_writer.php) By Robert Delwood.
 
 
 ### - Articles and Blogs
+
+🪄 [21 Tips to write better posts for devs](https://semaphoreci.com/blog/tips-to-write-for-developers).
+
 ### - Guides and FAQ's
 
 #### What a Technical Writing role entails
 
 ### Style Guides
+
+When deciding how to create content, it is important to pay attention to some companies that already have amazing styleguides to guide you. A list of remarkable styleguides you can get inspiration from are:
+
+* [Microsoft](https://docs.microsoft.com/en-us/style-guide/welcome/).
+* [Google](https://developers.google.com/style) provides editorial guidelines for writing clear and consistent Google-related developer documentation.
+* [Diátaxis](https://diataxis.fr/) - A systematic framework for technical documentation authoring.
+* [Gitlab Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/).
+* [Alistapart Style Guide](https://alistapart.com/about/style-guide/).
+* [Gatsby StyleGuides](https://www.gatsbyjs.com/contributing/gatsby-style-guide/).
+
+**Defining Tone Of Voice**
+
+* [Monzo](https://monzo.com/tone-of-voice/)
+* 
 
 ### Tools
 
@@ -43,7 +61,7 @@ This is a compilation of important links that I have come across in my journey a
 
 **Plagarism Checker**
 
-  → [Quetext](https://www.quetext.com/)Quetext's plagiarism checker analyzes your text to identify plagiarism, resolve other writing issues, and build citations with ease.
+  → [Quetext's](https://www.quetext.com/) plagiarism checker analyzes your text to identify plagiarism, resolve other writing issues, and build citations with ease.
   
 **Paraphrasing Tool**
 
@@ -75,8 +93,19 @@ This is a compilation of important links that I have come across in my journey a
 * [Technical Typers community](https://discord.gg/2zGqkPVAy6).
 * [Reddit](https://www.reddit.com/r/technicalwriting/).
 * [Non Technical in Tech](https://join.slack.com/t/nontechintech/shared_invite/zt-s9eg89md-oa_0xTZpVn2iYZvOoAIhBQ).
-* [The everything technical writing newsletter](https://www.getrevue.co/profile/_mslinda?subscribe_form=issue-page-header) By Linda Ikechukwu.
 * [Linkedin Technical Writing Group](https://www.linkedin.com/groups/112571/).
+
+
+**Newsletters**
+
+* [The everything technical writing newsletter](https://www.getrevue.co/profile/_mslinda?subscribe_form=issue-page-header) By Linda Ikechukwu.
+
+
+**Podcasts**
+
+* [Thenotboringtechwriter Podcast](https://www.thenotboringtechwriter.com/) By Jacob Moses.
+* 
+
  
 
 ### Build your Portfolio
@@ -94,5 +123,12 @@ This is a compilation of important links that I have come across in my journey a
     * [Cover Letter Template](https://dillionmegida.com/p/cover-letter-template/) By Dillion Megida.
 
 ### Find Jobs
+
+### More Learning Resources
+
+📒 This [page](https://www.writethedocs.org/topics/) links to the topics that have been covered by conference talks or in the newsletter for 'Write The Docs' community.
+
+📒 [Handling empty characters](https://emptycharacter.com/).
+
 
 

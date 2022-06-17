@@ -163,6 +163,7 @@ When deciding how to create content, it is important to pay attention to some co
 * [Educative.io](https://www.educative.io/m/educativeio-edpresso-write-with-us).
 * [Sitepoint](https://www.sitepoint.com/write-for-us/).
 
+
 ### More Learning Resources📘
 
 📘 This [page](https://www.writethedocs.org/topics/) links to the topics that have been covered by conference talks or in the newsletter for 'Write The Docs' community.
@@ -181,7 +182,6 @@ When deciding how to create content, it is important to pay attention to some co
 📀 [Code Samples In Documentation](https://www.youtube.com/watch?v=_gtzUpvGfXY) By Brian Murray.
 
 
-
 #### Learn Git - Version Control
 
 📘 [Learn Git in a Month of Lunches](https://ng1lib.org/book/2608857/0cb40e).
@@ -190,4 +190,9 @@ When deciding how to create content, it is important to pay attention to some co
 
 📘 [A Visual Guide to Version Control](https://betterexplained.com/articles/a-visual-guide-to-version-control/) By Better Explained.
 
-📀 
+
+Hey stranger, I plan to update this as much as I can and guess what, you too can contribute if you find something that you learned from and think we too can learn from.
+
+I am glad you have taken this path and if you wanna talk, send a DM on [Twitter](https://twitter.com/iamCynthiaPeter).
+
+Happy Learning!!!

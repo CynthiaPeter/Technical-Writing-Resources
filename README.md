@@ -106,7 +106,6 @@ When deciding how to create content, it is important to pay attention to some co
   
 ### Community and Newsletters
 
-* Dentry helps you find and share projects or entry level job roles. Join the Discord community [here](https://discord.gg/baUm7zuYUD).
 * [Technical Typers community](https://discord.gg/2zGqkPVAy6).
 * [Reddit](https://www.reddit.com/r/technicalwriting/).
 * [Non Technical in Tech](https://join.slack.com/t/nontechintech/shared_invite/zt-s9eg89md-oa_0xTZpVn2iYZvOoAIhBQ).
@@ -116,6 +115,8 @@ When deciding how to create content, it is important to pay attention to some co
 **Newsletters**
 
 * [The everything technical writing newsletter](https://www.getrevue.co/profile/_mslinda?subscribe_form=issue-page-header) By Linda Ikechukwu.
+
+* [Dentry Newsletter](http://subscribe.dentry.io/) By William Imoh : Receive entry-level and intermediate roles in software engineering, design, and product management.
 
 
 **Podcasts**

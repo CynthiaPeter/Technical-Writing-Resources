@@ -89,7 +89,9 @@ When deciding how to create content, it is important to pay attention to some co
  
   → Create cover images for your articles and blog posts using [Canva](canva.com).
   
-  
+ **CrossPost**
+ 
+  → [CrossXpost](https://crossxpost.app/).
   
 **Extras**   
 

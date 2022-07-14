@@ -183,6 +183,8 @@ When deciding how to create content, it is important to pay attention to some co
 
 📀 [Code Samples In Documentation](https://www.youtube.com/watch?v=_gtzUpvGfXY) By Brian Murray.
 
+📀 [Blog Promotion Checklist](https://draft.dev/learn/promotion) By Karl Hughes.
+
 
 #### Learn Git - Version Control
 

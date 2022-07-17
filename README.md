@@ -1,3 +1,6 @@
+
+![Technical Writing Resources](https://user-images.githubusercontent.com/33583060/179394775-49202628-3949-43e4-91ce-a9d215704aaa.png)
+
 # Technical-Writing-Resources
 
 Hi there, 

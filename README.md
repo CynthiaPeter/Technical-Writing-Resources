@@ -3,20 +3,20 @@
 
 # Technical-Writing-Resources
 
-Hi there, 
+**Hi there🙌🏾**
 
 I hope this meets you well. 
 This is a compilation of important links that I have come across in my journey as a writer. I hope this helps you too.
 
 ## Getting Started
-- [A beginners guide to get started with technical writing](https://cynthiapeter.com/a-beginners-guide-to-get-started-with-technical-writing) By Cynthia Peter.
-- [Technical Writing - A beginners Guide](https://developers.deepgram.com/blog/2022/03/technical-writing-a-beginners-guide/) By Bekah Hawrot Weigel.
-- [What is Technical Writing ](https://uxwritinghub.com/what-is-technical-writing/) By UX Writing Hub.
-- [Everything You need to Know about Technical Writing](https://www.everythingtechnicalwriting.com/everything-you-need-to-know-about-technical-writing/) By Lynda.
-- [Technical Writing - The what and How](https://edidiongasikpo.com/technical-writing-what-and-how) By Edidiong Asikpo.
-- [What is Technical Writing?](https://www.instructionalsolutions.com/blog/what-is-technical-writing) by Kara Latz.
-- [Tech Writers Master Class](https://www.udemy.com/course/tech-writers-master-class/) By Janet Underwood.
-- [Learn Tech Writing](https://learntechwriting.co/learn-tech-writing/technical-writing/learning-enough-english.html).
+  - [A beginners guide to get started with technical writing](https://cynthiapeter.com/a-beginners-guide-to-get-started-with-technical-writing) By Cynthia Peter.
+  - [Technical Writing - A beginners Guide](https://developers.deepgram.com/blog/2022/03/technical-writing-a-beginners-guide/) By Bekah Hawrot Weigel.
+  - [What is Technical Writing ](https://uxwritinghub.com/what-is-technical-writing/) By UX Writing Hub.
+  - [Everything You need to Know about Technical Writing](https://www.everythingtechnicalwriting.com/everything-you-need-to-know-about-technical-writing/) By Lynda.
+  - [Technical Writing - The what and How](https://edidiongasikpo.com/technical-writing-what-and-how) By Edidiong Asikpo.
+  - [What is Technical Writing?](https://www.instructionalsolutions.com/blog/what-is-technical-writing) by Kara Latz.
+  - [Tech Writers Master Class](https://www.udemy.com/course/tech-writers-master-class/) By Janet Underwood.
+  - [Learn Tech Writing](https://learntechwriting.co/learn-tech-writing/technical-writing/learning-enough-english.html).
 
 ## Types of Documentation You may need to do as a Technical writer:
 
@@ -29,42 +29,41 @@ This is a compilation of important links that I have come across in my journey a
 
 ### - Getting Started Guide
 
-📰 [Getting Started Guide retrospective: ](https://www.knowledgeowl.com/home/getting-started-guide-retrospective) The good, the bad, the ugly – By Kate Mueller
+  📰 [Getting Started Guide retrospective: ](https://www.knowledgeowl.com/home/getting-started-guide-retrospective) The good, the bad, the ugly – By Kate Mueller
  
 ### - Articles and Blogs
 
-🪄 [21 Tips to write better posts for devs](https://semaphoreci.com/blog/tips-to-write-for-developers).
+  🪄 [21 Tips to write better posts for devs](https://semaphoreci.com/blog/tips-to-write-for-developers).
 
 ### - Guides and FAQ's
 
-[ReadTheDocs - Writing Documentation Guide](https://docs-guide.readthedocs.io/en/latest/writing/).
+  * [ReadTheDocs - Writing Documentation Guide](https://docs-guide.readthedocs.io/en/latest/writing/).
 
 #### What a Technical Writing role entails
 
- * [Sample of Technical Writer responsibilities](https://about.gitlab.com/handbook/engineering/ux/technical-writing/#assignments-to-development-guidelines).
+  * [Sample of Technical Writer responsibilities](https://about.gitlab.com/handbook/engineering/ux/technical-writing/#assignments-to-development-guidelines).
 
 ### Style Guides
 
 When deciding how to create content, it is important to pay attention to some companies that already have amazing styleguides to guide you. A list of remarkable styleguides you can get inspiration from are:
 
-* [Microsoft](https://docs.microsoft.com/en-us/style-guide/welcome/).
-* [Google](https://developers.google.com/style) provides editorial guidelines for writing clear and consistent Google-related developer documentation.
-* [Diátaxis](https://diataxis.fr/) - A systematic framework for technical documentation authoring.
-* [Gitlab Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/).
-* [Alistapart Style Guide](https://alistapart.com/about/style-guide/).
-* [Gatsby StyleGuides](https://www.gatsbyjs.com/contributing/gatsby-style-guide/).
-
-* [How to write your style guide as a Technical Writer](https://wonexo.hashnode.dev/how-to-write-a-style-guide-as-a-technical-writer) By Segun Olumide.
+  * [Microsoft](https://docs.microsoft.com/en-us/style-guide/welcome/).
+  * [Google](https://developers.google.com/style) provides editorial guidelines for writing clear and consistent Google-related developer documentation.
+  * [Diátaxis](https://diataxis.fr/) - A systematic framework for technical documentation authoring.
+  * [Gitlab Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/).
+  * [Alistapart Style Guide](https://alistapart.com/about/style-guide/).
+  * [Gatsby StyleGuides](https://www.gatsbyjs.com/contributing/gatsby-style-guide/).
+  * [How to write your style guide as a Technical Writer](https://wonexo.hashnode.dev/how-to-write-a-style-guide-as-a-technical-writer) By Segun Olumide.
 
 ### Defining Tone Of Voice**
 
-* [Monzo](https://monzo.com/tone-of-voice/).
+  * [Monzo](https://monzo.com/tone-of-voice/).
 
-* [Microsoft's brand voice: ](https://docs.microsoft.com/en-us/style-guide/brand-voice-above-all-simple-human) Above all, simple and human.
+  * [Microsoft's brand voice: ](https://docs.microsoft.com/en-us/style-guide/brand-voice-above-all-simple-human) Above all, simple and human.
 
-* Atlassian Design System - [Voice and design Principles](https://atlassian.design/content/voice-and-tone-principles).
+  * Atlassian Design System - [Voice and design Principles](https://atlassian.design/content/voice-and-tone-principles).
 
-* [Shopify Voice and Tone](https://polaris.shopify.com/content/voice-and-tone#navigation).
+  * [Shopify Voice and Tone](https://polaris.shopify.com/content/voice-and-tone#navigation).
 
 
 ### Tools
@@ -88,7 +87,7 @@ When deciding how to create content, it is important to pay attention to some co
   
   → [Wordtune](https://www.wordtune.com/) is an AI-powered writing companion that understands what you’re trying to say, and suggests ways to make your writing more clear, compelling and authentic. 
   
- **Graphics**
+**Graphics**
  
   → Create cover images for your articles and blog posts using [Canva](canva.com).
   
@@ -108,99 +107,101 @@ When deciding how to create content, it is important to pay attention to some co
   
   → [Inclusive writing for everyone](https://www.witty.works/).
   
-### Best Practices
+### Best Practices - Developer Experience(DX)
 
- ✨ [The 7 Sins of Developer Experience](https://betta.io/blog/2017/11/10/the-seven-sins-of-developer-experience/) By [Christiano Betta](https://betta.io/). This resource gives you an insight into Developer Experience.
+  ✨ [The 7 Sins of Developer Experience](https://betta.io/blog/2017/11/10/the-seven-sins-of-developer-experience/) By [Christiano Betta](https://betta.io/). This resource gives you an insight into Developer Experience.
+
+  ✨ [Developer experience in terms of API design](https://apisyouwonthate.com/).
  
   
 ### Community and Newsletters
 
-* [Technical Typers community](https://discord.gg/2zGqkPVAy6).
-* [Reddit](https://www.reddit.com/r/technicalwriting/).
-* [Non Technical in Tech](https://join.slack.com/t/nontechintech/shared_invite/zt-s9eg89md-oa_0xTZpVn2iYZvOoAIhBQ).
-* [Linkedin Technical Writing Group](https://www.linkedin.com/groups/112571/).
+   * [Technical Typers community](https://discord.gg/2zGqkPVAy6).
+   * [Reddit](https://www.reddit.com/r/technicalwriting/).
+   * [Non Technical in Tech](https://join.slack.com/t/nontechintech/shared_invite/zt-s9eg89md-oa_0xTZpVn2iYZvOoAIhBQ).
+   * [Linkedin Technical Writing Group](https://www.linkedin.com/groups/112571/).
 
 
 **Newsletters📬✉️**
 
-* [The everything technical writing newsletter](https://www.getrevue.co/profile/_mslinda?subscribe_form=issue-page-header) By Linda Ikechukwu.
+   * [The everything technical writing newsletter](https://www.getrevue.co/profile/_mslinda?subscribe_form=issue-page-header) By Linda Ikechukwu.
 
-* [Dentry Newsletter](http://subscribe.dentry.io/) By William Imoh : Receive entry-level and intermediate roles in software engineering, design, and product management.
+   * [Dentry Newsletter](http://subscribe.dentry.io/) By William Imoh : Receive entry-level and intermediate roles in software engineering, design, and product management.
 
 
 **Podcasts🎙🎙**
 
-* [Thenotboringtechwriter Podcast](https://www.thenotboringtechwriter.com/) By Jacob Moses.
+   * [Thenotboringtechwriter Podcast](https://www.thenotboringtechwriter.com/) By Jacob Moses.
 
-* [Technical Marketing Handbook](https://www.stitcher.com/show/technical-marketing-handbook).
+   * [Technical Marketing Handbook](https://www.stitcher.com/show/technical-marketing-handbook).
 
-* [10 Mins Tech Comm](https://www.stitcher.com/show/10minute-tech-comm).
+   * [10 Mins Tech Comm](https://www.stitcher.com/show/10minute-tech-comm).
 
 
 **Books📘📘**
 
- * [Open Technical Communication!](https://alg.manifoldapp.org/read/open-technical-communication/section/67ef90ba-8ca3-4e8e-abb0-0a3966cf2ac7).
- 
- * [Docs for Developers](https://www.amazon.com/dp/1484272161/ref=cm_sw_r_awdo_navT_g_SV4HMY0QJNCGSEZ96T21); An Engineer’s Field Guide to Technical Writing.
- 
- * [The Mayfield Handbook of technical and Scientific Writing](http://www.mit.edu/course/21/21.guide/toc.htm).
+   * [Open Technical Communication!](https://alg.manifoldapp.org/read/open-technical-communication/section/67ef90ba-8ca3-4e8e-abb0-0a3966cf2ac7).
 
- * [Writing Handbook](https://www.julian.com/guide/write/intro) by Julian Shapiro.
+   * [Docs for Developers](https://www.amazon.com/dp/1484272161/ref=cm_sw_r_awdo_navT_g_SV4HMY0QJNCGSEZ96T21); An Engineer’s Field Guide to Technical Writing.
+
+   * [The Mayfield Handbook of technical and Scientific Writing](http://www.mit.edu/course/21/21.guide/toc.htm).
+
+   * [Writing Handbook](https://www.julian.com/guide/write/intro) by Julian Shapiro.
  
 
 ### Build your Portfolio
 
 #### These are my recommendations on building a Portfolio
 
-* Create your Blog and publish as you learn. The first two options doesn't require you to be technical to set things up;
+  * Create your Blog and publish as you learn. The first two options doesn't require you to be technical to set things up;
     * Hashnode
     * Dev.to
     * Or create a more personalized website using Wix, Webflow, or Wordpress.
     
-* Contribute to Open source Projects.
+  * Contribute to Open source Projects.
     * [Technical Writers Guide to Contributing to Open Source](https://edidiongasikpo.com/the-technical-writers-guide-to-contributing-to-open-source-projects) By Edidiong Asikpo.
     
-* Create Your Resume and Cover Letter
+  * Create Your Resume and Cover Letter
     * [Cover Letter Template](https://dillionmegida.com/p/cover-letter-template/) By Dillion Megida.
 
 
 ### Find Jobs
 
-* [Content Writing Jobs](https://contentwritingjobs.com/find-job/technical): Hand-picked writing opportunities to work from home, remotely, freelance, full-time, part-time, contract and internships.
-* [Pocket Writer Job boards List](https://github.com/CynthiaPeter/pocket-writer-job-boards-list).
-* [Smashing Magazine](https://www.smashingmagazine.com/write-for-us/).
-* [CSS Tricks](https://css-tricks.com/guest-posting/).
-* [Educative.io](https://www.educative.io/m/educativeio-edpresso-write-with-us).
-* [Sitepoint](https://www.sitepoint.com/write-for-us/).
+  * [Content Writing Jobs](https://contentwritingjobs.com/find-job/technical): Hand-picked writing opportunities to work from home, remotely, freelance, full-time, part-time, contract and internships.
+  * [Pocket Writer Job boards List](https://github.com/CynthiaPeter/pocket-writer-job-boards-list).
+  * [Smashing Magazine](https://www.smashingmagazine.com/write-for-us/).
+  * [CSS Tricks](https://css-tricks.com/guest-posting/).
+  * [Educative.io](https://www.educative.io/m/educativeio-edpresso-write-with-us).
+  * [Sitepoint](https://www.sitepoint.com/write-for-us/).
 
 
 ### More Learning Resources📘
 
-📘 This [page](https://www.writethedocs.org/topics/) links to the topics that have been covered by conference talks or in the newsletter for 'Write The Docs' community.
+  📘 This [page](https://www.writethedocs.org/topics/) links to the topics that have been covered by conference talks or in the newsletter for 'Write The Docs' community.
 
-📘 [Handling empty characters](https://emptycharacter.com/).
+  📘 [Handling empty characters](https://emptycharacter.com/).
 
-📘 If you are new to tech and need a basic introduction to computer science. Here are a couple of my favourite resources to get you started: 
-[Harvard CS50 course](https://cs50.harvard.edu/x/2021/weeks/0/).
+  📘 If you are new to tech and need a basic introduction to computer science. Here are a couple of my favourite resources to get you started: 
+  [Harvard CS50 course](https://cs50.harvard.edu/x/2021/weeks/0/).
 
-📘 [Learn Markdown](https://www.markdownguide.org/getting-started/).
+  📘 [Learn Markdown](https://www.markdownguide.org/getting-started/).
 
-📀 [Seeing your docs through different eyes:](https://www.youtube.com/watch?v=vj7TyUgBEW8) Mapping doc users experiences By Aaron Collier.
+  📀 [Seeing your docs through different eyes:](https://www.youtube.com/watch?v=vj7TyUgBEW8) Mapping doc users experiences By Aaron Collier.
 
-📀 [What do you look for when hiring technical Writers](https://www.youtube.com/watch?v=tv1DhmUT-Fo) By Dawn Davenport.
+  📀 [What do you look for when hiring technical Writers](https://www.youtube.com/watch?v=tv1DhmUT-Fo) By Dawn Davenport.
 
-📀 [Code Samples In Documentation](https://www.youtube.com/watch?v=_gtzUpvGfXY) By Brian Murray.
+  📀 [Code Samples In Documentation](https://www.youtube.com/watch?v=_gtzUpvGfXY) By Brian Murray.
 
-📀 [Blog Promotion Checklist](https://draft.dev/learn/promotion) By Karl Hughes.
+  📀 [Blog Promotion Checklist](https://draft.dev/learn/promotion) By Karl Hughes.
 
 
 #### Learn Git - Version Control
 
-📘 [Learn Git in a Month of Lunches](https://ng1lib.org/book/2608857/0cb40e).
+  📘 [Learn Git in a Month of Lunches](https://ng1lib.org/book/2608857/0cb40e).
 
-📘 [GIT PURR! Git Commands Explained with Cats!](https://girliemac.com/blog/2017/12/26/git-purr/) By Tomomi Imura.
+  📘 [GIT PURR! Git Commands Explained with Cats!](https://girliemac.com/blog/2017/12/26/git-purr/) By Tomomi Imura.
 
-📘 [A Visual Guide to Version Control](https://betterexplained.com/articles/a-visual-guide-to-version-control/) By Better Explained.
+  📘 [A Visual Guide to Version Control](https://betterexplained.com/articles/a-visual-guide-to-version-control/) By Better Explained.
 
 ## Final Notes
 

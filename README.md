@@ -56,7 +56,7 @@ When deciding how to create content, it is important to pay attention to some co
 
 * [How to write your style guide as a Technical Writer](https://wonexo.hashnode.dev/how-to-write-a-style-guide-as-a-technical-writer) By Segun Olumide.
 
-**Defining Tone Of Voice**
+### Defining Tone Of Voice**
 
 * [Monzo](https://monzo.com/tone-of-voice/).
 
@@ -108,7 +108,10 @@ When deciding how to create content, it is important to pay attention to some co
   
   → [Inclusive writing for everyone](https://www.witty.works/).
   
-  
+### Best Practices
+
+ ✨ [The 7 Sins of Developer Experience](https://betta.io/blog/2017/11/10/the-seven-sins-of-developer-experience/) By [Christiano Betta](https://betta.io/). This resource gives you an insight into Developer Experience.
+ 
   
 ### Community and Newsletters
 
@@ -118,14 +121,14 @@ When deciding how to create content, it is important to pay attention to some co
 * [Linkedin Technical Writing Group](https://www.linkedin.com/groups/112571/).
 
 
-**Newsletters**
+**Newsletters📬✉️**
 
 * [The everything technical writing newsletter](https://www.getrevue.co/profile/_mslinda?subscribe_form=issue-page-header) By Linda Ikechukwu.
 
 * [Dentry Newsletter](http://subscribe.dentry.io/) By William Imoh : Receive entry-level and intermediate roles in software engineering, design, and product management.
 
 
-**Podcasts**
+**Podcasts🎙🎙**
 
 * [Thenotboringtechwriter Podcast](https://www.thenotboringtechwriter.com/) By Jacob Moses.
 
@@ -134,7 +137,7 @@ When deciding how to create content, it is important to pay attention to some co
 * [10 Mins Tech Comm](https://www.stitcher.com/show/10minute-tech-comm).
 
 
-**Books📘 📘 
+**Books📘📘**
 
  * [Open Technical Communication!](https://alg.manifoldapp.org/read/open-technical-communication/section/67ef90ba-8ca3-4e8e-abb0-0a3966cf2ac7).
  
@@ -199,6 +202,7 @@ When deciding how to create content, it is important to pay attention to some co
 
 📘 [A Visual Guide to Version Control](https://betterexplained.com/articles/a-visual-guide-to-version-control/) By Better Explained.
 
+## Final Notes
 
 Hey stranger, I plan to update this as much as I can and guess what, you too can contribute if you find something that you learned from and think we too can learn from.
 

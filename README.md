@@ -195,13 +195,19 @@ When deciding how to create content, it is important to pay attention to some co
   📀 [Blog Promotion Checklist](https://draft.dev/learn/promotion) By Karl Hughes.
 
 
-#### Learn Git - Version Control
+### Learn Git - Version Control
 
   📘 [Learn Git in a Month of Lunches](https://ng1lib.org/book/2608857/0cb40e).
 
   📘 [GIT PURR! Git Commands Explained with Cats!](https://girliemac.com/blog/2017/12/26/git-purr/) By Tomomi Imura.
 
   📘 [A Visual Guide to Version Control](https://betterexplained.com/articles/a-visual-guide-to-version-control/) By Better Explained.
+  
+### SEO for Technical Writers
+  
+  🖊 [SEO for beginners: An Introduction to SEO Basics](https://www.searchenginejournal.com/seo-guide/).
+  🖊 [Search Engine Optimization : A Beginner's Guide from Ahrefs](https://ahrefs.com/seo).
+  🖊 [The Beginner's Guide to SEO : Rankings and traffic through search engine optimization](https://moz.com/beginners-guide-to-seo).
 
 ## Final Notes
 

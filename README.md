@@ -20,22 +20,22 @@ This is a compilation of important links that I have come across in my journey a
 
 ## Types of Documentation You may need to do as a Technical writer:
 
-### - API Documentation
+### API Documentation
   * [Working with APIs](https://support.knowledgeowl.com/help/working-with-apis).
   * [Postman Learning center](https://learning.postman.com/docs/publishing-your-api/documenting-your-api/) for API docs.
   * [Documenting APIs](https://idratherbewriting.com/learnapidoc/) A guide for technical writers and engineers.
   * [API Docs](https://apidocsfordevs.com/) for Devs By Shalvah.
   * [Getting Started in API Documentation](http://writeonce.org/starting_as_a_programmer_writer.php) By Robert Delwood.
 
-### - Getting Started Guide
+### Getting Started Guide
 
   📰 [Getting Started Guide retrospective: ](https://www.knowledgeowl.com/home/getting-started-guide-retrospective) The good, the bad, the ugly – By Kate Mueller
  
-### - Articles and Blogs
+### Articles and Blogs
 
   🪄 [21 Tips to write better posts for devs](https://semaphoreci.com/blog/tips-to-write-for-developers).
 
-### - Guides and FAQ's
+### Guides and FAQ's
 
   * [ReadTheDocs - Writing Documentation Guide](https://docs-guide.readthedocs.io/en/latest/writing/).
 
@@ -55,7 +55,7 @@ When deciding how to create content, it is important to pay attention to some co
   * [Gatsby StyleGuides](https://www.gatsbyjs.com/contributing/gatsby-style-guide/).
   * [How to write your style guide as a Technical Writer](https://wonexo.hashnode.dev/how-to-write-a-style-guide-as-a-technical-writer) By Segun Olumide.
 
-### Defining Tone Of Voice**
+### Defining Tone Of Voice
 
   * [Monzo](https://monzo.com/tone-of-voice/).
 
@@ -68,20 +68,20 @@ When deciding how to create content, it is important to pay attention to some co
 
 ### Tools
 
-**Produtivity and Content Planning**
+  **Produtivity and Content Planning**
 
    * [How I use Notion for my Article and Content Ideas](https://www.youtube.com/watch?v=yxbAX6vTUgc) By Dillion Megida.
    * [Feedly](https://feedly.com/i/welcome) lets you get the news you want all in one place.
 
-**Grammar**
+  **Grammar**
   
   → [Grammarly](https://app.grammarly.com/) helps you write mistake-free in Gmail, Facebook, Twitter, LinkedIn, and any other app you use.
 
-**Plagarism Checker**
+  **Plagarism Checker**
 
   → [Quetext's](https://www.quetext.com/) plagiarism checker analyzes your text to identify plagiarism, resolve other writing issues, and build citations with ease.
   
-**Paraphrasing Tool**
+  **Paraphrasing Tool**
 
   → [Quillbot](https://quillbot.com/) Helps you rewrite and enhance any sentence, paragraph, or article using state-of-the-art AI.
   

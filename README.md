@@ -157,7 +157,8 @@ When deciding how to create content, it is important to pay attention to some co
 
 **Portfolio Builder**
 
-  → Create multiple personalized technical writing portfolios without coding using [Contentre](contentre.io?source=cynthia_github_resources)
+  * [Contentre](contentre.io?source=cynthia_github_resources)
+   * Allows you to create multiple personalized technical writing portfolios from template or drag and drop. 
 
 #### These are my recommendations on building a Portfolio
 

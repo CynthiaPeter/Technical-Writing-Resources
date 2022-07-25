@@ -66,7 +66,7 @@ When deciding how to create content, it is important to pay attention to some co
   * [Shopify Voice and Tone](https://polaris.shopify.com/content/voice-and-tone#navigation).
 
 
-### Tools
+## Tools
 
   **Produtivity and Content Planning**
 
@@ -109,14 +109,15 @@ When deciding how to create content, it is important to pay attention to some co
   
   → [Inclusive writing for everyone](https://www.witty.works/).
   
-### Best Practices - Developer Experience(DX)
+
+## Best Practices - Developer Experience(DX)
 
   ✨ [The 7 Sins of Developer Experience](https://betta.io/blog/2017/11/10/the-seven-sins-of-developer-experience/) By [Christiano Betta](https://betta.io/). This resource gives you an insight into Developer Experience.
 
   ✨ [Developer experience in terms of API design](https://apisyouwonthate.com/).
  
   
-### Community and Newsletters
+## Community and Newsletters
 
    * [Technical Typers community](https://discord.gg/2zGqkPVAy6).
    * [Reddit](https://www.reddit.com/r/technicalwriting/).
@@ -151,7 +152,7 @@ When deciding how to create content, it is important to pay attention to some co
    * [Writing Handbook](https://www.julian.com/guide/write/intro) by Julian Shapiro.
  
 
-### Build your Portfolio
+## Build your Portfolio
 
 #### These are my recommendations on building a Portfolio
 
@@ -167,7 +168,7 @@ When deciding how to create content, it is important to pay attention to some co
     * [Cover Letter Template](https://dillionmegida.com/p/cover-letter-template/) By Dillion Megida.
 
 
-### Find Jobs
+## Find Jobs
 
   * [Content Writing Jobs](https://contentwritingjobs.com/find-job/technical): Hand-picked writing opportunities to work from home, remotely, freelance, full-time, part-time, contract and internships.
   * [Pocket Writer Job boards List](https://github.com/CynthiaPeter/pocket-writer-job-boards-list).
@@ -208,7 +209,9 @@ When deciding how to create content, it is important to pay attention to some co
 ### SEO for Technical Writers
   
   🖊 [SEO for beginners: An Introduction to SEO Basics](https://www.searchenginejournal.com/seo-guide/).
+  
   🖊 [Search Engine Optimization : A Beginner's Guide from Ahrefs](https://ahrefs.com/seo).
+  
   🖊 [The Beginner's Guide to SEO : Rankings and traffic through search engine optimization](https://moz.com/beginners-guide-to-seo).
 
 ## Final Notes

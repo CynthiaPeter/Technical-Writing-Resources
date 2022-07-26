@@ -93,6 +93,8 @@ When deciding how to create content, it is important to pay attention to some co
   
   → [Make drawings, highlights, blurs, on Screenshot](https://annotely.com/).
   
+  → [Mermaid](https://mermaid-js.github.io/mermaid/#/README) lets you create diagrams and visualizations using text and code.
+  
  **CrossPost**
  
   → [CrossXpost](https://crossxpost.app/).

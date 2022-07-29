@@ -87,6 +87,10 @@ When deciding how to create content, it is important to pay attention to some co
   
   → [Wordtune](https://www.wordtune.com/) is an AI-powered writing companion that understands what you’re trying to say, and suggests ways to make your writing more clear, compelling and authentic. 
   
+**Content Hub/Publishing**
+
+  → Create publishing your technical to Hashnode, Medium, Strapi, WordPress, Devto, other CRMs at once using [Contentre](contentre.io?source=cynthia_github_resources)
+  
 **Graphics**
  
   → Create cover images for your articles and blog posts using [Canva](canva.com).
@@ -156,6 +160,11 @@ When deciding how to create content, it is important to pay attention to some co
 
 ## Build your Portfolio
 
+**Portfolio Builder**
+
+  * [Contentre](contentre.io?source=cynthia_github_resources)
+    * Allows you to create multiple personalized technical writing portfolios from template or drag and drop. 
+
 #### These are my recommendations on building a Portfolio
 
   * Create your Blog and publish as you learn. The first two options doesn't require you to be technical to set things up;
@@ -168,6 +177,8 @@ When deciding how to create content, it is important to pay attention to some co
     
   * Create Your Resume and Cover Letter
     * [Cover Letter Template](https://dillionmegida.com/p/cover-letter-template/) By Dillion Megida.
+
+  * [How to create a freelance technical writing portfolio from scratch](https://blog.contentre.io/create-a-freelance-technical-writing-portfolio?source=cynthia_github_resources)
 
 
 ## Find Jobs

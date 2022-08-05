@@ -17,6 +17,7 @@ This is a compilation of important links that I have come across in my journey a
   - [What is Technical Writing?](https://www.instructionalsolutions.com/blog/what-is-technical-writing) by Kara Latz.
   - [Tech Writers Master Class](https://www.udemy.com/course/tech-writers-master-class/) By Janet Underwood.
   - [Learn Tech Writing](https://learntechwriting.co/learn-tech-writing/technical-writing/learning-enough-english.html).
+  - [What is Technical Writing](https://technicalwriterhq.com/writing/technical-writing/) By TechnicalWriterHq
 
 ## Types of Documentation You may need to do as a Technical writer:
 

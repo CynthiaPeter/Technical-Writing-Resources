@@ -152,6 +152,8 @@ When deciding how to create content, it is important to pay attention to some co
    * [The Mayfield Handbook of technical and Scientific Writing](http://www.mit.edu/course/21/21.guide/toc.htm).
 
    * [Writing Handbook](https://www.julian.com/guide/write/intro) by Julian Shapiro.
+
+   * [Technical Writing 101: A Real-World Guide to Planning and Writing Technical Content](https://www.gettextbooks.com/isbn/9780970473363/) By by Alan S. Pringle, Sarah S. O'keefe.
  
 
 ## Build your Portfolio
@@ -215,11 +217,17 @@ When deciding how to create content, it is important to pay attention to some co
   🖊 [Search Engine Optimization : A Beginner's Guide from Ahrefs](https://ahrefs.com/seo).
   
   🖊 [The Beginner's Guide to SEO : Rankings and traffic through search engine optimization](https://moz.com/beginners-guide-to-seo).
+  
+  
+### Other Technical Writing Resources
+
+  🔗 [Resources on Technical writing](https://docs.google.com/document/d/1ry9zsI3SFR-wzE69Rqz_z4VPXqIqg1yhkZZNUOKEBH8/edit) covering Transcription, Word Processing, Defi Content Writing, Ux Writing, NFT Content Writing.
+
 
 ## Final Notes
 
 Hey stranger, I plan to update this as much as I can and guess what, you too can contribute if you find something that you learned from and think we too can learn from.
 
-I am glad you have taken this path and if you wanna talk, send a DM on [Twitter](https://twitter.com/iamCynthiaPeter).
+I am glad you have taken this path and if you wanna talk, send a DM on [Twitter](https://twitter.com/iamCynthiaPeter) or schedule a call [here](https://calendly.com/cynthiapeter/lets_talk_technical_writing).
 
 Happy Learning!!!

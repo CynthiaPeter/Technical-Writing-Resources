@@ -233,7 +233,7 @@ I am glad you have taken this path and if you wanna talk, send a DM on [Twitter]
 
 ### Speak to someone
 
-Dillion has offered to speak to anyone with questions. Set up a call [here](calendly.com/dillionmegida).
+[Dillion](https://twitter.com/iamdillion) has offered to speak to anyone with questions. Set up a call [here](calendly.com/dillionmegida).
 
 
 Happy Learning!!!

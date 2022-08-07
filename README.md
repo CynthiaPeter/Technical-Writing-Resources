@@ -231,4 +231,9 @@ Hey stranger, I plan to update this as much as I can and guess what, you too can
 
 I am glad you have taken this path and if you wanna talk, send a DM on [Twitter](https://twitter.com/iamCynthiaPeter) or schedule a call [here](https://calendly.com/cynthiapeter/lets_talk_technical_writing).
 
+### Speak to someone
+
+Dillion has offered to speak to anyone with questions. Set up a call [here](calendly.com/dillionmegida).
+
+
 Happy Learning!!!

@@ -123,9 +123,12 @@ When deciding how to create content, it is important to pay attention to some co
 ## Community and Newsletters
 
    * [Technical Typers community](https://discord.gg/2zGqkPVAy6).
+   * [Write the Docs](https://www.writethedocs.org/slack/).. sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSdq4DWRphVt1qVqH8NsjNnS0Szu_NljjZRUvyYqR7mdc00zKQ/viewform)
    * [Reddit](https://www.reddit.com/r/technicalwriting/).
    * [Non Technical in Tech](https://join.slack.com/t/nontechintech/shared_invite/zt-s9eg89md-oa_0xTZpVn2iYZvOoAIhBQ).
    * [Linkedin Technical Writing Group](https://www.linkedin.com/groups/112571/).
+   * [Let's Talk Technical Writing](https://twitter.com/writefortech)
+   
 
 
 **Newsletters📬✉️**

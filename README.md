@@ -171,6 +171,7 @@ When deciding how to create content, it is important to pay attention to some co
     
   * Create Your Resume and Cover Letter
     * [Cover Letter Template](https://dillionmegida.com/p/cover-letter-template/) By Dillion Megida.
+    * [Careers.google - ](https://careers.google.com/how-we-hire/#step-your-resume)  How we hire
 
 
 ## Find Jobs

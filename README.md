@@ -112,6 +112,8 @@ When deciding how to create content, it is important to pay attention to some co
   
   → [Inclusive writing for everyone](https://www.witty.works/).
   
+  → [Passive voice detector](https://datayze.com/passive-voice-detector).
+  
 
 ## Best Practices - Developer Experience(DX)
 

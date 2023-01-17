@@ -9,15 +9,22 @@ I hope this meets you well.
 This is a compilation of important links that I have come across in my journey as a writer. I hope this helps you too.
 
 ## Getting Started
+
+**Blogs**
+
   - [A beginners guide to get started with technical writing](https://cynthiapeter.com/a-beginners-guide-to-get-started-with-technical-writing) By Cynthia Peter.
   - [Technical Writing - A beginners Guide](https://developers.deepgram.com/blog/2022/03/technical-writing-a-beginners-guide/) By Bekah Hawrot Weigel.
   - [What is Technical Writing ](https://uxwritinghub.com/what-is-technical-writing/) By UX Writing Hub.
   - [Everything You need to Know about Technical Writing](https://www.everythingtechnicalwriting.com/everything-you-need-to-know-about-technical-writing/) By Lynda.
   - [Technical Writing - The what and How](https://edidiongasikpo.com/technical-writing-what-and-how) By Edidiong Asikpo.
   - [What is Technical Writing?](https://www.instructionalsolutions.com/blog/what-is-technical-writing) by Kara Latz.
-  - [Tech Writers Master Class](https://www.udemy.com/course/tech-writers-master-class/) By Janet Underwood.
-  - [Learn Tech Writing](https://learntechwriting.co/learn-tech-writing/technical-writing/learning-enough-english.html).
   - [What is Technical Writing](https://technicalwriterhq.com/writing/technical-writing/) By TechnicalWriterHq
+
+
+**Courses**
+  -  [Learn Tech Writing](https://learntechwriting.co/index.html) by Arnab Ghosh.
+  - [Tech Writers Master Class](https://www.udemy.com/course/tech-writers-master-class/) By Janet Underwood.
+ 
 
 ## Types of Documentation You may need to do as a Technical writer:
 
@@ -39,10 +46,6 @@ This is a compilation of important links that I have come across in my journey a
 ### Guides and FAQ's
 
   * [ReadTheDocs - Writing Documentation Guide](https://docs-guide.readthedocs.io/en/latest/writing/).
-
-#### What a Technical Writing role entails
-
-  * [Sample of Technical Writer responsibilities](https://about.gitlab.com/handbook/engineering/ux/technical-writing/#assignments-to-development-guidelines).
 
 ### Style Guides
 
@@ -157,9 +160,15 @@ When deciding how to create content, it is important to pay attention to some co
    * [Writing Handbook](https://www.julian.com/guide/write/intro) by Julian Shapiro.
 
    * [Technical Writing 101: A Real-World Guide to Planning and Writing Technical Content](https://www.gettextbooks.com/isbn/9780970473363/) By by Alan S. Pringle, Sarah S. O'keefe.
- 
+   
+   * [Docs for Developers](https://learning.oreilly.com/library/view/docs-for-developers/9781484272176/html/505277_1_En_BookFrontmatter_OnlinePDF.xhtml)
+
 
 ## Build your Portfolio
+
+### What a Technical Writing role entails
+
+  * [Sample of Technical Writer responsibilities](https://about.gitlab.com/handbook/engineering/ux/technical-writing/#assignments-to-development-guidelines).
 
 #### These are my recommendations on building a Portfolio
 

@@ -148,6 +148,8 @@ When deciding how to create content, it is important to pay attention to some co
 
    * [10 Mins Tech Comm](https://www.stitcher.com/show/10minute-tech-comm).
 
+   * [API THE DOCS podcast](https://apithedocs.org/podcast?page=1).
+
 
 **Books📘📘**
 

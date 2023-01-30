@@ -57,7 +57,13 @@ When deciding how to create content, it is important to pay attention to some co
   * [Gitlab Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/).
   * [Alistapart Style Guide](https://alistapart.com/about/style-guide/).
   * [Gatsby StyleGuides](https://www.gatsbyjs.com/contributing/gatsby-style-guide/).
+  * The [FreeCodeCamp](https://www.freecodecamp.org/news/developer-news-style-guide/) Publication Style Guide.
+  
+  
+  **Extra:**
+  
   * [How to write your style guide as a Technical Writer](https://wonexo.hashnode.dev/how-to-write-a-style-guide-as-a-technical-writer) By Segun Olumide.
+  
 
 ### Defining Tone Of Voice
 

@@ -19,6 +19,7 @@ This is a compilation of important links that I have come across in my journey a
   - [Technical Writing - The what and How](https://edidiongasikpo.com/technical-writing-what-and-how) By Edidiong Asikpo.
   - [What is Technical Writing?](https://www.instructionalsolutions.com/blog/what-is-technical-writing) by Kara Latz.
   - [What is Technical Writing](https://technicalwriterhq.com/writing/technical-writing/) By TechnicalWriterHq
+  - [Technical Writing: Ultimate Beginners Guide](https://www.machinelearningnuggets.com/technical-writing/) by Derrick Mwiti
 
 
 **Courses**

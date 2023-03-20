@@ -30,11 +30,14 @@ This is a compilation of important links that I have come across in my journey a
 ## Types of Documentation You may need to do as a Technical writer:
 
 ### API Documentation
-  * [Working with APIs](https://support.knowledgeowl.com/help/working-with-apis).
+  * [Working with APIs](https://support.knowledgeowl.com/help/working-with-apis) By KnowlegdeOwl.
   * [Postman Learning center](https://learning.postman.com/docs/publishing-your-api/documenting-your-api/) for API docs.
   * [Documenting APIs](https://idratherbewriting.com/learnapidoc/) A guide for technical writers and engineers.
   * [API Docs](https://apidocsfordevs.com/) for Devs By Shalvah.
   * [Getting Started in API Documentation](http://writeonce.org/starting_as_a_programmer_writer.php) By Robert Delwood.
+
+**Learn about APIs**
+  * [Postman Academy](https://academy.postman.com/) By Postman. This resource is highly recommended by me. Taking all or any of the courses in this series will help you understand APIs and how to use Postman.
 
 ### Getting Started Guide
 

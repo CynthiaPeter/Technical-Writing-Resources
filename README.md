@@ -100,6 +100,10 @@ When deciding how to create content, it is important to pay attention to some co
   → [Quillbot](https://quillbot.com/) Helps you rewrite and enhance any sentence, paragraph, or article using state-of-the-art AI.
   
   → [Wordtune](https://www.wordtune.com/) is an AI-powered writing companion that understands what you’re trying to say, and suggests ways to make your writing more clear, compelling and authentic. 
+  → [Jenni Ai](https://jenni.ai/) an Ai auto-writing tool that automatically writes essays and mails.
+  → [MarkDoc](https://markdoc.io/) A superset of Markdown for creating custom documentation websites. It was created by Stripe and made open source in May 2022.
+  → [Power Thesaurus](https://www.powerthesaurus.org/) Power Thesaurus is an online thesaurus for writers that is free, fast, comprehensive, and simple to use. It can help you find synonyms and acronyms.
+
   
 **Graphics**
  
@@ -195,6 +199,8 @@ When deciding how to create content, it is important to pay attention to some co
   * Create Your Resume and Cover Letter
     * [Cover Letter Template](https://dillionmegida.com/p/cover-letter-template/) By Dillion Megida.
     * [Careers.google - ](https://careers.google.com/how-we-hire/#step-your-resume)  How we hire
+    * [Writing a cover letter](https://ruthikegah.xyz/how-to-write-an-enticing-cover-letter) By Ruth Ikegah
+    * [Writing a Technical Resume](https://technicalwriterhq.com/career/technical-writer/technical-writer-resume/)
 
 
 ## Find Jobs
@@ -205,6 +211,10 @@ When deciding how to create content, it is important to pay attention to some co
   * [CSS Tricks](https://css-tricks.com/guest-posting/).
   * [Educative.io](https://www.educative.io/m/educativeio-edpresso-write-with-us).
   * [Sitepoint](https://www.sitepoint.com/write-for-us/).
+  * [Startup Jobs](https://startup.jobs/?q=Technical+writer&remote=true&utm_campaign=Everything+Technical+Writing+Newsletter&utm_medium=email&utm_source=Revue+newsletter).
+  * [Best Writing](https://bestwriting.com/jobs).
+  * [Write the Docs](https://jobs.writethedocs.org/).
+  * [Who Pays Technical Writer](https://whopaystechnicalwriters.com/).
 
 
 ### More Learning Resources📘

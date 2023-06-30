@@ -5,8 +5,8 @@
 
 **Hi there🙌🏾**
 
-I hope this meets you well. 
-This is a compilation of important links that I have come across in my journey as a writer. I hope this helps you too.
+I hope you are doing well. 
+This is a compilation of essential links I have encountered as a writer. I hope this helps you too.
 
 ## Getting Started
 
@@ -37,7 +37,7 @@ This is a compilation of important links that I have come across in my journey a
   * [Getting Started in API Documentation](http://writeonce.org/starting_as_a_programmer_writer.php) By Robert Delwood.
 
 **Learn about APIs**
-  * [Postman Academy](https://academy.postman.com/) By Postman. This resource is highly recommended by me. Taking all or any of the courses in this series will help you understand APIs and how to use Postman.
+  * [Postman Academy](https://academy.postman.com/) By Postman. I highly recommend this resource. Taking all or any of the courses in this series will help you understand APIs and how to use Postman.
 
 ### Getting Started Guide
 
@@ -47,13 +47,13 @@ This is a compilation of important links that I have come across in my journey a
 
   🪄 [21 Tips to write better posts for devs](https://semaphoreci.com/blog/tips-to-write-for-developers).
 
-### Guides and FAQ's
+### Guides and FAQs
 
   * [ReadTheDocs - Writing Documentation Guide](https://docs-guide.readthedocs.io/en/latest/writing/).
 
 ### Style Guides
 
-When deciding how to create content, it is important to pay attention to some companies that already have amazing styleguides to guide you. A list of remarkable styleguides you can get inspiration from are:
+When deciding how to create content, it is important to pay attention to some companies that already have amazing styleguides to guide you. A list of remarkable style guides you can get inspiration from are:
 
   * [Microsoft](https://docs.microsoft.com/en-us/style-guide/welcome/).
   * [Google](https://developers.google.com/style) provides editorial guidelines for writing clear and consistent Google-related developer documentation.
@@ -82,36 +82,44 @@ When deciding how to create content, it is important to pay attention to some co
 
 ## Tools
 
-  **Produtivity and Content Planning**
+  **Technical Writing Tools**
+   * Learn [Adobe frame maker.](https://my.adobeconnect.com/introduction-to-framemaker/)
+   * Learn [Adobe frame maker.](https://my.adobeconnect.com/introduction-to-framemaker/)
+
+  **Productivity and Content Planning**
 
    * [How I use Notion for my Article and Content Ideas](https://www.youtube.com/watch?v=yxbAX6vTUgc) By Dillion Megida.
    * [Feedly](https://feedly.com/i/welcome) lets you get the news you want all in one place.
 
   **Grammar**
   
-  → [Grammarly](https://app.grammarly.com/) helps you write mistake-free in Gmail, Facebook, Twitter, LinkedIn, and any other app you use.
+   * [Grammarly](https://app.grammarly.com/) helps you write mistake-free in Gmail, Facebook, Twitter, LinkedIn, and any other app you use.
 
-  **Plagarism Checker**
+  **Plagiarism Checker**
 
-  → [Quetext's](https://www.quetext.com/) plagiarism checker analyzes your text to identify plagiarism, resolve other writing issues, and build citations with ease.
+   * [Quetext's](https://www.quetext.com/) plagiarism checker analyzes your text to identify plagiarism, resolve other writing issues, and easily build citations.
   
   **Paraphrasing Tool**
 
-  → [Quillbot](https://quillbot.com/) Helps you rewrite and enhance any sentence, paragraph, or article using state-of-the-art AI.
+   *  [Quillbot](https://quillbot.com/) Helps you rewrite and enhance any sentence, paragraph, or article using state-of-the-art AI.
   
-  → [Wordtune](https://www.wordtune.com/) is an AI-powered writing companion that understands what you’re trying to say, and suggests ways to make your writing more clear, compelling and authentic. 
+   * [Wordtune](https://www.wordtune.com/) is an AI-powered writing companion that understands what you’re trying to say, and suggests ways to make your writing clearer, compelling and authentic. 
   
-**Graphics**
+  **Graphics**
  
-  → Create cover images for your articles and blog posts using [Canva](canva.com).
+   * Create cover images for your articles and blog posts using [Canva](canva.com).
   
-  → [Make drawings, highlights, blurs, on Screenshot](https://annotely.com/).
+   * [Make drawings, highlights, blurs, on Screenshot](https://annotely.com/).
   
-  → [Mermaid](https://mermaid-js.github.io/mermaid/#/README) lets you create diagrams and visualizations using text and code.
+   * [Mermaid](https://mermaid-js.github.io/mermaid/#/README) lets you create diagrams and visualizations using text and code.
   
  **CrossPost**
  
-  → [CrossXpost](https://crossxpost.app/).
+  → [CrossXpost](https://crossxpost.app/)
+
+  **AI Tools**
+   * [Phind](https://www.phind.com/)
+   * [Chat GPT](https://chat.openai.com/)
   
 **Extras**   
 
@@ -147,7 +155,7 @@ When deciding how to create content, it is important to pay attention to some co
 
    * [The everything technical writing newsletter](https://www.getrevue.co/profile/_mslinda?subscribe_form=issue-page-header) By Linda Ikechukwu.
 
-   * [Dentry Newsletter](http://subscribe.dentry.io/) By William Imoh : Receive entry-level and intermediate roles in software engineering, design, and product management.
+   * [Dentry Newsletter](http://subscribe.dentry.io/) By William Imoh: Receive entry-level and intermediate roles in software engineering, design, and product management.
 
 
 **Podcasts🎙🎙**
@@ -167,27 +175,27 @@ When deciding how to create content, it is important to pay attention to some co
 
    * [Docs for Developers](https://www.amazon.com/dp/1484272161/ref=cm_sw_r_awdo_navT_g_SV4HMY0QJNCGSEZ96T21); An Engineer’s Field Guide to Technical Writing.
 
-   * [The Mayfield Handbook of technical and Scientific Writing](http://www.mit.edu/course/21/21.guide/toc.htm).
+   * [The Mayfield Handbook of Technical and Scientific Writing](http://www.mit.edu/course/21/21.guide/toc.htm).
 
    * [Writing Handbook](https://www.julian.com/guide/write/intro) by Julian Shapiro.
 
-   * [Technical Writing 101: A Real-World Guide to Planning and Writing Technical Content](https://www.gettextbooks.com/isbn/9780970473363/) By by Alan S. Pringle, Sarah S. O'keefe.
+   * [Technical Writing 101: A Real-World Guide to Planning and Writing Technical Content](https://www.gettextbooks.com/isbn/9780970473363/) By Alan S. Pringle, Sarah S. O'keefe.
    
    * [Docs for Developers](https://learning.oreilly.com/library/view/docs-for-developers/9781484272176/html/505277_1_En_BookFrontmatter_OnlinePDF.xhtml)
 
 
 ## Build your Portfolio
 
-### What a Technical Writing role entails
+#### What a Technical Writing role entails
 
   * [Sample of Technical Writer responsibilities](https://about.gitlab.com/handbook/engineering/ux/technical-writing/#assignments-to-development-guidelines).
 
-#### These are my recommendations on building a Portfolio
+#### These are my recommendations for building a Portfolio
 
-  * Create your Blog and publish as you learn. The first two options doesn't require you to be technical to set things up;
+  * Create your Blog and publish as you learn. The first two options don't require you to be technical to set things up;
     * Hashnode
     * Dev.to
-    * Or create a more personalized website using Wix, Webflow, or Wordpress.
+    * Create a more personalized website using Wix, Webflow, or WordPress.
     
   * Contribute to Open source Projects.
     * [Technical Writers Guide to Contributing to Open Source](https://edidiongasikpo.com/the-technical-writers-guide-to-contributing-to-open-source-projects) By Edidiong Asikpo.
@@ -209,7 +217,7 @@ When deciding how to create content, it is important to pay attention to some co
 
 ### More Learning Resources📘
 
-  📘 This [page](https://www.writethedocs.org/topics/) links to the topics that have been covered by conference talks or in the newsletter for 'Write The Docs' community.
+  📘 This [page](https://www.writethedocs.org/topics/) links to the topics that have been covered by conference talks or in the newsletter for the 'Write The Docs' community.
 
   📘 [Handling empty characters](https://emptycharacter.com/).
 
@@ -239,9 +247,9 @@ When deciding how to create content, it is important to pay attention to some co
   
   🖊 [SEO for beginners: An Introduction to SEO Basics](https://www.searchenginejournal.com/seo-guide/).
   
-  🖊 [Search Engine Optimization : A Beginner's Guide from Ahrefs](https://ahrefs.com/seo).
+  🖊 [Search Engine Optimization: A Beginner's Guide from Ahrefs](https://ahrefs.com/seo).
   
-  🖊 [The Beginner's Guide to SEO : Rankings and traffic through search engine optimization](https://moz.com/beginners-guide-to-seo).
+  🖊 [The Beginner's Guide to SEO: Rankings and traffic through search engine optimization](https://moz.com/beginners-guide-to-seo).
   
   
 ### Other Technical Writing Resources
@@ -251,13 +259,9 @@ When deciding how to create content, it is important to pay attention to some co
 
 ## Final Notes
 
-Hey stranger, I plan to update this as much as I can and guess what, you too can contribute if you find something that you learned from and think we too can learn from.
+Hey stranger, I plan to update this as much as possible. You can contribute if you find something you learned from and think we, too, can learn from.
 
-I am glad you have taken this path and if you wanna talk, send a DM on [Twitter](https://twitter.com/iamCynthiaPeter) or schedule a call [here](https://calendly.com/cynthiapeter/lets_talk_technical_writing).
-
-### Speak to someone
-
-[Dillion](https://twitter.com/iamdillion) has offered to speak to anyone with questions. Set up a call [here](calendly.com/dillionmegida).
+I am glad you have taken this path, and if you want to talk, send a DM on [Twitter](https://twitter.com/iamCynthiaPeter).
 
 
 Happy Learning!!!

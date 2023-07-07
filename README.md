@@ -35,9 +35,15 @@ This is a compilation of essential links I have encountered as a writer. I hope 
   * [Documenting APIs](https://idratherbewriting.com/learnapidoc/) A guide for technical writers and engineers.
   * [API Docs](https://apidocsfordevs.com/) for Devs By Shalvah.
   * [Getting Started in API Documentation](http://writeonce.org/starting_as_a_programmer_writer.php) By Robert Delwood.
+  * [How to Read API Documentation](https://www.departmentofproduct.com/blog/how-to-read-api-documentation/) By Richard Holmes
 
 **Learn about APIs**
   * [Postman Academy](https://academy.postman.com/) By Postman. I highly recommend this resource. Taking all or any of the courses in this series will help you understand APIs and how to use Postman.
+  * [An introduction to APIs](https://zapier.com/resources/guides/apis) by Zapier. This course breaks down APIs for beginners.
+
+**Building Documentation site**
+* [How to create a documentation site from scratch](https://medium.com/empathyco/how-to-create-a-documentation-site-from-scratch-3ce54bf0257) By José A. Blanco
+
 
 ### Getting Started Guide
 

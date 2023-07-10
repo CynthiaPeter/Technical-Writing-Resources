@@ -256,6 +256,11 @@ When deciding how to create content, it is important to pay attention to some co
 
   🔗 [Resources on Technical writing](https://docs.google.com/document/d/1ry9zsI3SFR-wzE69Rqz_z4VPXqIqg1yhkZZNUOKEBH8/edit) covering Transcription, Word Processing, Defi Content Writing, Ux Writing, NFT Content Writing.
 
+### Upskill
+As a technical writer, you might find yourself learning on the job. Below, you'll find links to platforms that offer both free and paid courses. I encourage you to spend some time reading and upskilling. Happy learning.
+
+  🔗 [Edx](https://www.edx.org/)
+  🔗 [Google Digital Skills](https://learndigital.withgoogle.com/digitalskills/courses)
 
 ## Final Notes
 

@@ -21,6 +21,7 @@ This is a compilation of essential links I have encountered as a writer. I hope 
   - [What is Technical Writing](https://technicalwriterhq.com/writing/technical-writing/) By TechnicalWriterHq
   - [A software developer's guide to Writing](https://theankurtyagi.com/a-software-developers-guide-to-writing/) By Ankur Tyagi
   * [How to Create Technical Documentation with Examples](https://document360.com/blog/technical-documentation/) By Kingson S
+  * [Software Documentation Best Pratices With Examples](https://helpjuice.com/blog/software-documentation/) By David Oragui
 
 
 **Courses**
@@ -51,6 +52,9 @@ This is a compilation of essential links I have encountered as a writer. I hope 
 * [What Is Docs as Code and Why Does It Matter?](https://nordicapis.com/what-is-docs-as-code-and-why-does-it-matter/) By Kristopher Sandoval
 * [Documentation as Code: why you need it and how to get started](https://swimm.io/learn/code-documentation/documentation-as-code-why-you-need-it-and-how-to-get-started/) By Swimm Team 
 
+**4c Documentation Model**
+* [Documentation system](https://www.documentation.divio.com/introduction) by Divio
+* [How the Docs are Structured](https://www.gatsbyjs.com/contributing/docs-contributions/docs-structure) By Gatsby
 
 
 ### Getting Started Guide
@@ -226,7 +230,12 @@ When deciding how to create content, it is important to pay attention to some co
   * [Smashing Magazine](https://www.smashingmagazine.com/write-for-us/).
   * [CSS Tricks](https://css-tricks.com/guest-posting/).
   * [Educative.io](https://www.educative.io/m/educativeio-edpresso-write-with-us).
-  * [Sitepoint](https://www.sitepoint.com/write-for-us/).
+  * [Sitepoint](https://www.sitepoint.com/write-for-us/). 
+  * [Vonage Learn](https://www.learn.vonage.com/spotlight)
+  * [Civo](https://www.civo.com/write-for-us)
+  * [Airbyte](https://www.airbyte.com/community/write-for-the-community)
+  * [Circleci](https://www.circleci.com/blog/authors-program)
+  * [Ambassador](https://www.getambassador.io/write-for-us)
 
 
 ### More Learning Resources📘

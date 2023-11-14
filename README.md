@@ -229,7 +229,8 @@ When deciding how to create content, it is important to pay attention to some co
   * [CSS Tricks](https://css-tricks.com/guest-posting/).
   * [Educative.io](https://www.educative.io/m/educativeio-edpresso-write-with-us).
   * [Sitepoint](https://www.sitepoint.com/write-for-us/).
-
+  * [Startups.jobs](https://startup.jobs/)
+  
 
 ### More Learning Resources📘
 

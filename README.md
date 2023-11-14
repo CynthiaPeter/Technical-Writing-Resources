@@ -10,6 +10,8 @@ This is a compilation of essential links I have encountered as a writer. I hope 
 
 ## Getting Started
 
+[Technical Writing Roadmap](https://roadmap.sh/technical-writer) By Hackmamba X iChuloo
+
 **Blogs**
 
   - [A beginners guide to get started with technical writing](https://cynthiapeter.com/a-beginners-guide-to-get-started-with-technical-writing) By Cynthia Peter.

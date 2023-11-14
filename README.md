@@ -22,7 +22,8 @@ This is a compilation of essential links I have encountered as a writer. I hope 
   - [What is Technical Writing?](https://www.instructionalsolutions.com/blog/what-is-technical-writing) by Kara Latz.
   - [What is Technical Writing](https://technicalwriterhq.com/writing/technical-writing/) By TechnicalWriterHq
   - [A software developer's guide to Writing](https://theankurtyagi.com/a-software-developers-guide-to-writing/) By Ankur Tyagi
-  * [How to Create Technical Documentation with Examples](https://document360.com/blog/technical-documentation/) By Kingson S
+  - [How to Create Technical Documentation with Examples](https://document360.com/blog/technical-documentation/) By Kingson S
+  - [Software Documentation Best Pratices With Examples](https://helpjuice.com/blog/software-documentation/) By David Oragui
 
 
 **Courses**
@@ -40,19 +41,22 @@ This is a compilation of essential links I have encountered as a writer. I hope 
   * [Getting Started in API Documentation](http://writeonce.org/starting_as_a_programmer_writer.php) By Robert Delwood.
   * [How to Read API Documentation](https://www.departmentofproduct.com/blog/how-to-read-api-documentation/) By Richard Holmes
 
-**Learn about APIs**
+### Learn about APIs
   * [Postman Academy](https://academy.postman.com/) By Postman. I highly recommend this resource. Taking all or any of the courses in this series will help you understand APIs and how to use Postman.
   * [An introduction to APIs](https://zapier.com/resources/guides/apis) by Zapier. This course breaks down APIs for beginners.
 
-**Building Documentation site**
+### Building Documentation site
 * [How to create a documentation site from scratch](https://medium.com/empathyco/how-to-create-a-documentation-site-from-scratch-3ce54bf0257) By José A. Blanco
 * [How to build a docs site](https://dev.to/michaelcurrin/how-to-build-a-docs-site-4h42) By  Michael Currin
 
-**Doc-as-code**
+### Doc-as-code
 * [Docs as Code: A Development Approach to Documentation](https://www.makeuseof.com/docs-as-code-overview/) By Ukeje Chukwuemeriwo Goodness
 * [What Is Docs as Code and Why Does It Matter?](https://nordicapis.com/what-is-docs-as-code-and-why-does-it-matter/) By Kristopher Sandoval
 * [Documentation as Code: why you need it and how to get started](https://swimm.io/learn/code-documentation/documentation-as-code-why-you-need-it-and-how-to-get-started/) By Swimm Team 
 
+### 4c Documentation Model
+* [Documentation ystem](https://www.documentation.divio.com/introduction) by Divio
+* [How the Docs are Structured](https://www.gatsbyjs.com/contributing/docs-contributions/docs-structure) By Gatsby
 
 
 ### Getting Started Guide
@@ -229,6 +233,11 @@ When deciding how to create content, it is important to pay attention to some co
   * [CSS Tricks](https://css-tricks.com/guest-posting/).
   * [Educative.io](https://www.educative.io/m/educativeio-edpresso-write-with-us).
   * [Sitepoint](https://www.sitepoint.com/write-for-us/).
+  * [Vonage Learn](https://www.learn.vonage.com/spotlight).
+  * [Civo](https://www.civo.com/write-for-us).
+  * [Airbyte](https://www.airbyte.com/community/write-for-the-community).
+  * [Circleci](https://www.circleci.com/blog/authors-program).
+  * [Ambassador](https://www.getambassador.io/write-for-us).
 
 
 ### More Learning Resources📘

@@ -28,6 +28,8 @@ This is a compilation of essential links I have encountered as a writer. I hope 
 **Courses**
   -  [Learn Tech Writing](https://learntechwriting.co/index.html) by Arnab Ghosh.
   - [Tech Writers Master Class](https://www.udemy.com/course/tech-writers-master-class/) By Janet Underwood.
+  - [Tech: Write & Earn](https://startuptrybe.trainercentralsite.com/course/techwriteearn#/home) by David Herbert & Sokaribo Senibo.
+  - [Technical Writing Certification Course](https://aptlearn.io/courses/technical-writing-certification-course/) by Abubakar Husseinah and Umar Faruq on AptLearn.
  
 
 ## Types of Documentation You may need to do as a Technical writer:

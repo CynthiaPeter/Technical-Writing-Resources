@@ -199,6 +199,8 @@ When deciding how to create content, it is important to pay attention to some co
    
    * [Docs for Developers](https://learning.oreilly.com/library/view/docs-for-developers/9781484272176/html/505277_1_En_BookFrontmatter_OnlinePDF.xhtml)
 
+   * [Software Technical Writing: A Guidebook](https://jamesg.blog/book.pdf) by James Gallagher.
+
 
 ## Build your Portfolio
 

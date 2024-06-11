@@ -55,7 +55,7 @@ This is a compilation of essential links I have encountered as a writer. I hope 
 * [Documentation as Code: why you need it and how to get started](https://swimm.io/learn/code-documentation/documentation-as-code-why-you-need-it-and-how-to-get-started/) By Swimm Team 
 
 ### 4c Documentation Model
-* [Documentation ystem](https://www.documentation.divio.com/introduction) by Divio
+* [Documentation system](https://www.documentation.divio.com/introduction) by Divio
 * [How the Docs are Structured](https://www.gatsbyjs.com/contributing/docs-contributions/docs-structure) By Gatsby
 
 

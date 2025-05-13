@@ -14,7 +14,6 @@ This is a compilation of essential links I have encountered as a writer. I hope 
 
 **Blogs**
 
-  - [A beginners guide to get started with technical writing](https://cynthiapeter.com/a-beginners-guide-to-get-started-with-technical-writing) By Cynthia Peter.
   - [Technical Writing - A beginners Guide](https://developers.deepgram.com/blog/2022/03/technical-writing-a-beginners-guide/) By Bekah Hawrot Weigel.
   - [What is Technical Writing ](https://uxwritinghub.com/what-is-technical-writing/) By UX Writing Hub.
   - [Everything You need to Know about Technical Writing](https://www.everythingtechnicalwriting.com/everything-you-need-to-know-about-technical-writing/) By Lynda.
@@ -27,7 +26,7 @@ This is a compilation of essential links I have encountered as a writer. I hope 
 
 
 **Courses**
-  -  [Learn Tech Writing](https://learntechwriting.co/index.html) by Arnab Ghosh.
+  - [Learn Tech Writing](https://learntechwriting.co/index.html) by Arnab Ghosh.
   - [Tech Writers Master Class](https://www.udemy.com/course/tech-writers-master-class/) By Janet Underwood.
  
 
@@ -55,8 +54,8 @@ This is a compilation of essential links I have encountered as a writer. I hope 
 * [Documentation as Code: why you need it and how to get started](https://swimm.io/learn/code-documentation/documentation-as-code-why-you-need-it-and-how-to-get-started/) By Swimm Team 
 
 ### 4c Documentation Model
-* [Documentation ystem](https://www.documentation.divio.com/introduction) by Divio
-* [How the Docs are Structured](https://www.gatsbyjs.com/contributing/docs-contributions/docs-structure) By Gatsby
+* [Documentation system](https://www.documentation.divio.com/introduction) by Divio
+* [How Docs are Structured](https://www.gatsbyjs.com/contributing/docs-contributions/docs-structure) By Gatsby
 
 
 ### Getting Started Guide

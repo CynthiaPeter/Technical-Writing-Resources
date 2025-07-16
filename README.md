@@ -50,7 +50,7 @@ This is a compilation of essential links I have encountered as a writer. I hope 
 
 ### Doc-as-code
 * [Docs as Code: A Development Approach to Documentation](https://www.makeuseof.com/docs-as-code-overview/) By Ukeje Chukwuemeriwo Goodness
-* [What Is Docs as Code and Why Does It Matter?](https://nordicapis.com/what-is-docs-as-code-and-why-does-it-matter/) By Kristopher Sandoval
+* [What Is Docs as Code and Why Does It Matter?](https://nordicapis.com/what-is-docs-as-code-and-why-does-it-matter/) By [Kristopher Sandoval](https://github.com/KristopherLeads)
 * [Documentation as Code: why you need it and how to get started](https://swimm.io/learn/code-documentation/documentation-as-code-why-you-need-it-and-how-to-get-started/) By Swimm Team 
 
 ### 4c Documentation Model

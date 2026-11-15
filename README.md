@@ -121,6 +121,8 @@ When deciding how to create content, it is important to pay attention to some co
   **Paraphrasing Tool**
 
    *  [Quillbot](https://quillbot.com/) Helps you rewrite and enhance any sentence, paragraph, or article using state-of-the-art AI.
+
+   * [HumanPen](https://humanpen.net/) condenses DOCX documents and reformats in-text citations and reference lists. Paid credits; 100 free credits on registration.
   
    * [Wordtune](https://www.wordtune.com/) is an AI-powered writing companion that understands what you’re trying to say, and suggests ways to make your writing clearer, compelling and authentic. 
   

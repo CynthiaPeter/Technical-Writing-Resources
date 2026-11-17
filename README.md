@@ -122,7 +122,7 @@ When deciding how to create content, it is important to pay attention to some co
 
    *  [Quillbot](https://quillbot.com/) Helps you rewrite and enhance any sentence, paragraph, or article using state-of-the-art AI.
 
-   * [HumanPen](https://humanpen.net/) condenses DOCX documents and reformats in-text citations and reference lists. Paid credits; 100 free credits on registration.
+   * [HumanPen](https://humanpen.net/) rewrites DOCX, PPTX, and TXT documents, with DOCX condensation and citation formatting. Paid credits; 100 one-time signup credits.
   
    * [Wordtune](https://www.wordtune.com/) is an AI-powered writing companion that understands what you’re trying to say, and suggests ways to make your writing clearer, compelling and authentic. 
   
